@@ -1,11 +1,14 @@
-![Header image](https://raw.githubusercontent.com/yourusername/yourusername/master/assets/github-header.png)
+![Header image](https://github.com/stealth-raptor/stealth-raptor/blob/52c870d59f5d3e6575897f0b91ce38e945ebbf4b/banner.png)
+
+Hi, I’m Aryan. I write code, chase ideas at odd hours, and frequently wonder if I’m doing any of it right.
+
+I’m an undergrad at NSUT (Batch of 2027), currently on a mission to blend full-stack development with Generative AI.  
+Still learning, still doubting, still building.
+
+Some days I ship. Some days I scrap everything and start over.  
+Most days, I’m just trying to get 1% better without burning out.
 
 > “The Force will be with you… eventually.” – Me, to myself, daily.
-
-Hi, I’m Aryan. I write code, build with AI and frequently wonder if I’m doing any of it right.
-
-I’m an Electrical Engineering undergrad at NSUT (Batch of 2027), currently on a mission to blend full-stack development with Generative AI.  
-Still learning, still doubting, still building.
 
 ---
 
@@ -36,7 +39,6 @@ Still learning, still doubting, still building.
 If you're building something cool — hit me up:
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryansethi64/)](https://www.linkedin.com/in/aryansethi64/)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/stealth-raptor)](https://github.com/stealth-raptor)
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aryansethi2311@gmail.com)](mailto:aryansethi2311@gmail.com)
 
 ---
