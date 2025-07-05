@@ -26,12 +26,12 @@ Most days, I’m just trying to get 1% better without burning out.
 ---
 
 ### 🛠 Tech Arsenal
-- **Languages:** JavaScript, TypeScript, C++, Python
+- **Languages:** JavaScript, C++, Python
 - **Frontend:** React, Next.js, CSS
-- **Backend:** Node.js, NestJS, Express.js
-- **AI/LLM:** LangChain.js, OpenAI SDK, Supabase, TensorFlow, Scikit-Learn
+- **Backend:** Node.js, Express.js
+- **AI/LLM:** LangChain.js, OpenAI SDK, Supabase
 - **Databases:** MongoDB, PostgreSQL
-- **Other:** WebRTC, Socket.io, Git, REST APIs, Render
+- **Other:** WebRTC, Socket.io, Git, REST APIs
 
 ---
 
